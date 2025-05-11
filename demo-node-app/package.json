@@ -1,0 +1,26 @@
+{
+  "name": "-m3-w1-d3assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch":"nodemon ./start.js"
+   
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boneva/-m3-w1-d3assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boneva/-m3-w1-d3assignment/issues"
+  },
+  "homepage": "https://github.com/Boneva/-m3-w1-d3assignment#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "description": ""
+}
